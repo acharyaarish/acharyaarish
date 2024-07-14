@@ -1,4 +1,4 @@
-# People Call me Arish, But I have never been to Paris! 👋
+# People call me Arish, but I swear I've never been to Paris!
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="500"/>
@@ -15,10 +15,15 @@
 
 ## Expertise
 
-- Research
-- Data Analysis through R, Python
-- AWS and Tableau
-- SQLite
+<p align="center">
+  <img src="https://img.shields.io/badge/-Research-333333?style=for-the-badge&logo=google-scholar" alt="Research"/>
+  <img src="https://img.shields.io/badge/-Data_Analysis-333333?style=for-the-badge&logo=data-usage" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=r" alt="R"/>
+  <img src="https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Tableau-333333?style=for-the-badge&logo=tableau" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite" alt="SQLite"/>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Dog Coding" width="300"/>
@@ -45,15 +50,12 @@
 
 ### Drink Coffee and code lol
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1AgVi6sLX2UWsZgvZ8/giphy.gif" alt="Coding" width="400"/>
-</p>
 
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/acharyaarish/">
-    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
