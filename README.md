@@ -41,7 +41,7 @@
   <a href="https://github.com/acharyaarish/dog_breed_detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=acharyaarish&repo=dog_breed_detector&theme=radical" alt="dog_breed_detector" />
   </a>
-  <a href="https://github.com/acharyaarish/journal-app">
+  <a href="https://github.com/acharyaarish/Excel_Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=acharyaarish&repo=journal-app&theme=radical" alt="journal-app" />
   </a>
 </p>
