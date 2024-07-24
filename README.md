@@ -45,16 +45,7 @@
 
 ## ☕ Quote for Life
 
-### Drink Coffee and code lol
-
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/acharyaarish/">
-    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+### Drink Coffee, rest, take some sun, code, and do not stop until your goal is complete
 
 <p align="center">
   <img src="https://media.giphy.com/media/aC45M5Q4D07Pq/giphy.gif" alt="Dog Working" width="400"/>
