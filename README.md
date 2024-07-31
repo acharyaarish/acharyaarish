@@ -29,7 +29,7 @@ Deep analysis of wildlife incidents leveraging AWS EC2 for real-time data handli
 ### [Dog Breed Detector Game](https://github.com/acharyaarish/dog_breed_detector)
 Interactive learning application using React and Node.js, integrating real-time data fetching from the Dog CEO API.
 
-### [Sales Dashboard Analysis](https://github.com/acharyaarish/sales_dashboard)
+### [Sales Dashboard Analysis](https://github.com/acharyaarish/Excel_Dashboard)
 Utilizes Pivot Tables in Excel to dynamically represent sales data and trends for strategic decision-making.
 
 ### [EdTech Platform Enhancement](https://paldip.com)
