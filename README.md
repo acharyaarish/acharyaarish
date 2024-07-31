@@ -1,52 +1,44 @@
-# People call me Arish, but I swear I've never been to Paris!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="500"/>
-</p>
+# Arish Acharya - Data Analyst
 
 ## About Me
 
-### Give me any sort of problem and some time, I will fix it.
-### Data Analyst trying to serve humans through my skills.
+I dive deep into data with the tenacity of a detective and the humor of a sitcom writer. Whether it’s crunching numbers or cracking jokes, I bring enthusiasm and a fresh perspective to the world of data analysis.
+
+## Contact Information
+- **Email:** [acharyaarish@gmail.com](mailto:acharyaarish@gmail.com)
+- **Portfolio:** [arish.app](https://arish.app)
+- **GitHub:** [github.com/acharyaarish](https://github.com/acharyaarish)
+
+## Core Skills
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Problem Solver Animation" width="300"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React Animation" width="500"/>
 </p>
 
-## Expertise
+## Featured Projects
+
+### [Wildlife Incidents Dashboard](https://github.com/acharyaarish/wildlife_incidents_dashboard)
+Deep analysis of wildlife incidents leveraging AWS EC2 for real-time data handling and insights.
+
+### [Dog Breed Detector Game](https://github.com/acharyaarish/dog_breed_detector)
+Interactive learning application using React and Node.js, integrating real-time data fetching from the Dog CEO API.
+
+### [Sales Dashboard Analysis](https://github.com/acharyaarish/sales_dashboard)
+Utilizes Pivot Tables in Excel to dynamically represent sales data and trends for strategic decision-making.
+
+### [EdTech Platform Enhancement](https://paldip.com)
+Significant contributions to the usability and functionality of an educational technology platform, improving its utility in academic settings.
+
+## Motivational Quote
+
+"Data is the new oil, and I'm here to refine it."
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Research-333333?style=for-the-badge&logo=google-scholar" alt="Research"/>
-  <img src="https://img.shields.io/badge/-Data_Analysis-333333?style=for-the-badge&logo=data-usage" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=r" alt="R"/>
-  <img src="https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Tableau-333333?style=for-the-badge&logo=tableau" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite" alt="SQLite"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Dog Coding" width="300"/>
-</p>
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/acharyaarish/arish.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acharyaarish&repo=arish.app&theme=radical" alt="arish.app" />
-  </a>
-  <a href="https://github.com/acharyaarish/Python_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acharyaarish&repo=Python_Dashboard&theme=radical" alt="Python_Dashboard" />
-  </a>
-  <a href="https://github.com/acharyaarish/dog_breed_detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acharyaarish&repo=dog_breed_detector&theme=radical" alt="dog_breed_detector" />
-  </a>
-</p>
-
-## ☕ Quote for Life
-
-### Drink Coffee, rest, take some sun, code, and do not stop until your goal is complete
-
-<p align="center">
-  <img src="https://media.giphy.com/media/aC45M5Q4D07Pq/giphy.gif" alt="Dog Working" width="400"/>
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Professional Coding Gif" width="400"/>
 </p>
