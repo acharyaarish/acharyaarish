@@ -8,8 +8,6 @@
 
 🐍 Python is my second language, and I'm proficient in several others from R to SQL. I'm constantly learning and love to play around with new technologies – if it’s new and nerdy, I’m on it.
 
-🔍 On my GitHub, you'll find projects ranging from a home-made security system (built to keep my snacks safe) to professional dashboards analyzing everything from sales to wildlife incidents.
-
 💡 I believe that a good laugh and a good log file can solve half of life's problems. Looking to collaborate, innovate, or just have a good tech talk? Hit me up!
 
 
