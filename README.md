@@ -25,13 +25,12 @@ Welcome to my GitHub! I’m a **Full Stack Developer** passionate about building
 > Dive into some of my recent work! Each project integrates modern technologies and a unique problem-solving approach.
 
 - **[💰 Finance Manager](https://github.com/acharyaarish/Finance-Manager)**  
-   A comprehensive finance management tool with a user-friendly interface for budgeting, expense tracking, and financial insights using **React** and **Firebase**.
+   A  finance management tool with a user-friendly interface for budgeting, expense tracking, and financial insights using **React** and **Firebase**.
 
 - **[📦 Inventory Management System](https://github.com/acharyaarish/Inventory-Management)**  
    Console based Inventory Management System build using Python OOP.
 - **[📊 Python Data Dashboard](https://github.com/acharyaarish/Python_Dashboard)**  
-   A customizable dashboard with Python, Pandas, and Matplotlib for data visualization, giving quick insights and flexible visual analysis.
-
+   Detailed analysis of  Wildlife Accident details and location in Canberra using government public dataset.
 - **[🐕 Dog Breed Detector](https://github.com/acharyaarish/dog_breed_detector)**  
    An AI-driven web app for identifying dog breeds built with React and Node.js, creating a fun and interactive user experience.
 
