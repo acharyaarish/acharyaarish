@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub! I’m a **Full Stack Developer** passionate about building dynamic web applications and data-driven solutions. Currently, I’m working with **React** and **Firebase** for seamless front-end and backend integration and diving into **AWS Amplify** and **data engineering** using **S3**, **Glue**, and **Redshift**. Always eager to learn and innovate! ✨
+I’m a **Full Stack Developer** passionate about building dynamic web applications and data-driven solutions. Currently, I’m working with **React** and **Firebase** for seamless front-end and backend integration and diving into **AWS Amplify** and **data engineering** using **S3**, **Glue**, and **Redshift**. Always eager to learn and innovate! ✨
 
 ---
 
