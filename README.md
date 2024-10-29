@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **Arish Acharya** 🐾
+# 👋 Hi there! I'm **Arish** 
 
 **💻 Full Stack Developer | Data Engineering Enthusiast**
 
