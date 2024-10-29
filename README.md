@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm **Arish** 
 
-**💻 Full Stack Developer | Data Engineering Enthusiast**
+**💻 Full Stack Developer | Data Engineering Student**
 
 ---
 
-I’m a **Full Stack Developer** passionate about building dynamic web applications and data-driven solutions. Currently, I’m working with **React** and **Firebase** for seamless front-end and backend integration and diving into **AWS Amplify** and **data engineering** using **S3**, **Glue**, and **Redshift**. Always eager to learn and innovate! ✨
+I’m a **Full Stack Developer** passionate about building dynamic web applications and data-driven solutions. Currently, I’m working with **React** and **Firebase** for front-end and backend integration and diving into **AWS Amplify** and **data engineering** using **S3**, **Glue**, and **Redshift**. 
 
 ---
 
@@ -45,10 +45,6 @@ Looking to collaborate, discuss, or simply chat about tech (or dogs 🐾)? Reach
 - 🐙 **GitHub:** [github.com/acharyaarish](https://github.com/acharyaarish)
 
 ---
-
-### 🌈 **Words of Wisdom**
-
-> "Life is like programming; each error is an opportunity to learn and grow." 💻🐾
 
 <p align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Coding Animation" width="400" />
