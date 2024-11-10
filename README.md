@@ -4,7 +4,7 @@
 
 ---
 
-I’m a passionate **Full Stack Developer** focused on building dynamic web applications and data-driven solutions. My expertise lies in **AWS**, **Python**, **SQL**, and front-end development with **React** and **Firebase**. I’m constantly learning, improving, and embracing new challenges in the field.
+I have worked as an IT engineer from a young age, with a strong passion for problem-solving and helping customers. My background includes experience in **Data Analytics**, **IT Support**, and **Full Stack Development**. My expertise spans **AWS**, **Python**, **SQL**, and front-end development with **React** and **Firebase**. I’m constantly learning, improving, and embracing new challenges in the field.
 
 ---
 
