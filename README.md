@@ -22,7 +22,6 @@ I have worked as an IT engineer from a young age, with a strong passion for prob
 
 ### 🧑‍💻 **Featured Projects**
 
-> Check out some of my recent projects, showcasing modern tech and innovative solutions.
 
 - **[💰 Finance Manager](https://github.com/acharyaarish/Finance-Manager)**  
    A user-friendly finance management tool for budgeting, expense tracking, and financial insights, built with **React** and **Firebase**.
