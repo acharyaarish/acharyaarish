@@ -42,8 +42,6 @@ I have worked as an IT engineer from a young age, with a strong passion for prob
 - 📧 **Email:** [acharyaarish@gmail.com](mailto:acharyaarish@gmail.com)
 - 🌐 **Portfolio:** [arish.app](https://arish.app)
 - 🐙 **GitHub:** [github.com/acharyaarish](https://github.com/acharyaarish)
-- 💼 **LinkedIn:** [linkedin.com/in/arish-acharya-1a8a3b329](https://www.linkedin.com/in/arish-acharya-1a8a3b329/)
-
 ---
 
 <p align="center">
