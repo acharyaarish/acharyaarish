@@ -1,7 +1,3 @@
-Here’s a simpler, more fun, and genuine version of your GitHub profile:  
-
----
-
 # 👋 Hey, I'm **Arish**  
 
 **💻 Full Stack Developer | UI & Data Enthusiast**  
