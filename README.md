@@ -1,40 +1,59 @@
-# 👋 Hey, I'm **Arish**  
+<h1 align="center">Hey there, I'm Arish! 👋</h1>
 
-**💻 Full Stack Developer | UI & Data Enthusiast**  
-
----
-
-I’ve been working in IT since a young age, solving problems and helping people along the way. This GitHub is my playground for learning and fun projects outside of work!  
-
-I love building cool **UIs**, exploring **frontend development**, and diving into **data analytics**. My toolkit includes **AWS**, **Python**, **SQL**, **React**, and **Firebase**, and I’m always up for learning something new.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Frontend+Developer+in+the+Making;React.+AWS.+JavaScript.+CSS.;Designing+Stunning+UI%2FUX;Always+Learning+%26+Improving" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 **Tech I Use & Love**  
+### 🎨 About Me
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+I'm a passionate **Frontend Developer** on a mission to craft immersive web experiences. My journey revolves around:
 
----
-
-### 🌟 **Fun Projects**  
-
-- **[💰 Finance Manager](https://github.com/acharyaarish/Finance-Manager)** – A budgeting & expense tracker built with **React** & **Firebase**  
-- **[📦 Inventory System](https://github.com/acharyaarish/Inventory-Management)** – A Python-powered inventory manager  
-- **[📊 Data Dashboard](https://github.com/acharyaarish/Python_Dashboard)** – Visualizing wildlife accident data in **Canberra**  
-- **[🐕 Dog Breed Detector](https://github.com/acharyaarish/dog_breed_detector)** – A fun AI app that guesses dog breeds!  
+- **React & JavaScript**: Building dynamic and responsive user interfaces.
+- **AWS & Firebase**: Deploying scalable and secure applications.
+- **CSS**: Styling with finesse to create visually appealing designs.
+- **UI/UX Design**: Ensuring intuitive and user-friendly experiences.
 
 ---
 
-### 📫 **Let’s Connect!**  
+### 🚀 Tech Stack
 
-📧 [acharyaarish@gmail.com](mailto:acharyaarish@gmail.com)  
-🌐 [arish.app](https://arish.app)  
-🐙 [github.com/acharyaarish](https://github.com/acharyaarish)  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+</p>
 
 ---
 
-🚀 Always learning, always building!
+### 🌟 Featured Projects
+
+- **🚗 [Ultimate Auto Detail](https://github.com/acharyaarish/ultimate-auto-detail)**  
+  *A sleek and responsive car wash website designed for a friend, emphasizing modern UI/UX principles.*
+
+- **📊 [Canberra Animal Incidents Dashboard](https://github.com/acharyaarish/Python_Dashboard)**  
+  *An interactive dashboard visualizing government data on animal incidents in Canberra, hosted on AWS.*
+
+- **🐶 [Dog Breed Detector](https://github.com/acharyaarish/dog_breed_detector)**  
+  *An AI-powered application that predicts dog breeds from images, blending machine learning with a user-friendly interface.*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acharyaarish&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharyaarish&theme=tokyonight&hide_border=true" width="400"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- **Email**: [acharyaarish@gmail.com](mailto:acharyaarish@gmail.com)
+- **Website**: [arish.app](https://arish.app)
+- **GitHub**: [github.com/acharyaarish](https://github.com/acharyaarish)
+
