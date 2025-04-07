@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Arish! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Wizard+✨;React+%7C+AWS+%7C+JS+%7C+CSS;Crafting+UI%2FUX+Magic;Always+Learning+%26+Evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=500&lines=Frontend+Wizard+✨;React+%7C+AWS+%7C+JS+%7C+CSS;Crafting+UI%2FUX+Magic;Always+Learning+%26+Evolving" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🌌 Who’s This Guy?
 
-Hey, I’m **Arish**—a **Frontend Developer** obsessed with turning code into captivating web experiences. Picture me as a digital artist, painting the web with **React**, **JavaScript**, and **CSS**, while sprinkling in some **AWS** and **Firebase** magic for scalability. I live for sleek designs, intuitive UI/UX, and the thrill of learning something new every day.
+Hey, I’m **Arish**—a **Frontend Developer** obsessed with turning code into captivating web experiences. I kicked off my tech journey as an **IT Support Engineer**, fixing systems and solving problems, but my heart was always set on the creative side of tech. Now, I’m chasing my passion to become a top-tier frontend developer, painting the web with **React**, **JavaScript**, and **CSS**, while leveling up with **AWS** and **Firebase**. Bonus goal? You’ll see a few slick apps from me in the App Store in the next few months—watch this space!
 
 - 🎨 **Mission**: Build interfaces that wow users and make developers jealous.
 - ⚡ **Vibe**: Coffee-fueled coder by day, UI/UX dreamer by night.
