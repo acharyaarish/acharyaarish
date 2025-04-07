@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arish%20🚀%20Frontend%20Fusion&fontSize=50&animation=twinkling&fontAlignY=40&fontColor=E0FF04&gradientColors=6B00FF,00E5FF,E0FF04" alt="Header Capsule" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Arish%20🚀%20Frontend%20Fusion&fontSize=50&animation=twinkling&fontAlignY=40&fontColor=E0FF04&gradientColors=6B00FF,00E5FF,E0FF04" alt="Header Capsule" width="100%" />
 </div>
 
 <h1 align="center">Hey, I’m Arish—Code Meets Creativity! ✨</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=500&color=E0FF04&center=true&vCenter=true&width=550&lines=Frontend+Fanatic+Extraordinaire;IT+Support+to+UI%2FUX+Rockstar;React+%7C+JS+%7C+CSS+%7C+AWS+Wizard;App+Store+Drop+2025—Get+Ready!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=500&color=E0FF04¢er=true&vCenter=true&width=550&lines=Frontend+Fanatic+Extraordinaire;IT+Support+to+UI%2FUX+Rockstar;React+%7C+JS+%7C+AWS+Wizard;App+Store+Drop+2025—Get+Ready!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -89,7 +89,7 @@ Yo, I’m **Arish**—a **Frontend Dev** who kicked off in **IT Support**, tamin
   <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/acharyaarish/acharyaarish.json&label=Vibe+Hits&color=E0FF04&labelColor=0A0A0A" alt="Hits Badge" />
 </div>
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake Animation" width="70%" />
+  <img src="https://github.com/acharyaarish/acharyaarish/blob/gh-pages/dist/github-contribution-grid-snake.svg" alt="Snake Animation" width="70%" />
 </div>
 
 ---
@@ -114,5 +114,5 @@ Yo, I’m **Arish**—a **Frontend Dev** who kicked off in **IT Support**, tamin
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&gradientColors=6B00FF,00E5FF,E0FF04" alt="Footer Capsule" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&animation=twinkling&gradientColors=6B00FF,00E5FF,E0FF04" alt="Footer Capsule" width="100%" />
 </div>
