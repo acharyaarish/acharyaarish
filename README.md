@@ -89,7 +89,7 @@ Yo, I’m **Arish**—a **Frontend Dev** who kicked off in **IT Support**, tamin
   <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/acharyaarish/acharyaarish.json&label=Vibe+Hits&color=E0FF04&labelColor=0A0A0A" alt="Hits Badge" />
 </div>
 <div align="center">
-  <img src="https://github.com/acharyaarish/acharyaarish/blob/gh-pages/dist/github-contribution-grid-snake.svg" alt="Snake Animation" width="70%" />
+  <img src="https://raw.githubusercontent.com/acharyaarish/acharyaarish/gh-pages/dist/github-contribution-grid-snake.svg" alt="Snake Animation" width="70%" />
 </div>
 
 ---
