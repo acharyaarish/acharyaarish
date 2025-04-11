@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arish%20🌿%20Frontend%20Alchemist&fontSize=40&fontColor=ffffff&animation=fadeIn&gradientColor1=4CAF50&gradientColor2=00BCD4" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arish%20🌿%20Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&gradientColor1=4CAF50&gradientColor2=00BCD4" alt="Header Image" />
 </div>
 
 <h1 align="center">Hey, I'm Arish! 👋</h1>
