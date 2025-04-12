@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey, I'm Arish! 👋</h1>
 <p align="center">
-  Frontend Dev. UI Enthusiast. Nature Nerd. Turning code into calm beauty.
+  IT Engineer turning Frontend Dev. Currently learning React and Next.js
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ## 🌱 About Me
 
-Hey! I'm **Arish**, a frontend dev who went from solving IT glitches to sculpting clean, joyful UIs with React and friends. Inspired by mountains, rivers, and clean CSS grids.
+Hey! I'm **Arish**, a frontend dev on the making who went from solving IT glitches to sculpting clean, joyful UIs with React and friends. Inspired by mountains, rivers, and clean CSS grids.
 
 - 🌿 **Nature-Fueled Creativity**
 - 🎯 **Focus**: React · Tailwind · TypeScript · AWS · Firebase
