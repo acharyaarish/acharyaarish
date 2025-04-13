@@ -19,10 +19,9 @@
 
 Hey! I'm **Arish**, a frontend dev on the making who went from solving IT glitches to sculpting clean, joyful UIs with React and friends. Inspired by mountains, rivers, and clean CSS grids.
 
-- 🌿 **Nature-Fueled Creativity**
-- 🎯 **Focus**: React · Tailwind · TypeScript · AWS · Firebase
-- 🎨 **Design Ethos**: Simplicity + Vibes
-- 📦 **Next Up**: App Store Drop in 2025 🚀
+- 🌿 **Grinding to masters these bad boys 👇**
+- 🎯 **Focus**: React · Tailwind · TypeScript · AWS · Firebase 
+- 📦 **Plan**: App Store Drop in 2025 🚀
 
 > *“I like my UIs like I like my coffee—smooth, minimal, and with great margins.” ☕*
 
