@@ -21,7 +21,6 @@ Hey! I'm **Arish**, a frontend dev on the making who went from solving IT glitch
 
 - 🌿 **Grinding to masters these bad boys 👇**
 - 🎯 **Focus**: React · Tailwind · TypeScript · AWS · Firebase 
-- 📦 **Plan**: App Store Drop in 2025 🚀
 
 > *“I like my UIs like I like my coffee—smooth, minimal, and with great margins.” ☕*
 
